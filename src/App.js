@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import { useEffect, useState } from 'react';
 import './App.css';
 import React from 'react';
-import TermCalApp from './CalApp.jsx';
+import TermCalApp from './CalApp';
 import axios from "axios";
 //import LiveChatApp from './LiveChat';
 
